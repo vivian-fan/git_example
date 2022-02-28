@@ -1,2 +1,3 @@
 f1: major
+feature: minor
 f2: major
